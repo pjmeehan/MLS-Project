@@ -1,8 +1,8 @@
-ASSESSMENT OBJECTIVE
-This assessment will attempt to answer two questions:
+### ASSESSMENT OBJECTIVE<br>
+#### This assessment will attempt to answer two questions:<br>
 
-Is there a significant difference in median house prices between houses that are along Boston's Charles river and those that are not?
-Is it possible to accurately predict the median house price in Boston?
+>  1.Is there a significant difference in median house prices between houses that are along Boston's Charles river and those that are not?
+>  2.Is it possible to accurately predict the median house price in Boston?<br>
 To determine whether there is a significant difference in median house prices between those that are along the Charles river and those that are not, I will utilize inferential statistics.
 I will use keras to aid me in building a neural network to see if I can accurately predict the median house price.
 

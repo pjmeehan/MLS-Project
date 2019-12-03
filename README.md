@@ -9,18 +9,18 @@ I will use keras to aid me in building a neural network to see if I can accurate
 
 The project will be broken into 3 sections:
 
-Section 1 : A general description of the Boston House Price dataset with the use of some descriptive statistics and plots.<br>
-Section 2 : To find out if there is a significant difference between the median price of a house along the Charles river and houses that are not through the use of inferential statistics.<br>
+Section 1 : A general description of the Boston House Price dataset with the use of some descriptive statistics and plots.<br><br>
+Section 2 : To find out if there is a significant difference between the median price of a house along the Charles river and houses that are not through the use of inferential statistics.<br><br>
 Section 3 : To create a method that will allow the prediction of the median home price utilizing keras.<br><br>
 
 These are the steps I will take in building my prediction model:
 
-1.Scale the data.
-2.Build the model utilizing a neural network and adding layers.
-3.Split the dataset into training and test groups.
-4.Train the neural network model.
-5.Predict the median house value.
-6.Evaluate the results.
+1.Scale the data.<br>
+2.Build the model utilizing a neural network and adding layers.<br>
+3.Split the dataset into training and test groups.<br>
+4.Train the neural network model.<br>
+5.Predict the median house value.<br>
+6.Evaluate the results.<br>
 
 I will use these steps to build a model to predict the medv while using all the other variables and also use the medv to predict the medv using just three variables.
 
